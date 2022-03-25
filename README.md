@@ -2,6 +2,19 @@
 
 Dit project omvat twee sketchnotes die ik heb gemaakt tijdens Sprint 7.
 
+## 📚 Inhoudsopgave
+
+* [Kenmerken](#kenmerken)
+* [Tools](#tools)
+* [Licentie](#licentie)
+
+## ⚡ Kenmerken
+Dit project is gemaakt met pen & papier. Verder staat hieronder een korte lijst met gebruikte tools en middelen.
+
+**Tools**
+
+- ✍ Pen & Papier
+
 ### Sketchnote retrospect
 
 Dit is de sketchnote die ik heb gemaakt om mijn progressie in Sprint 7 visueel te maken.
@@ -15,18 +28,6 @@ Dit is de sketchnote die ik heb gemaakt om een metafoor te koppelen aan mijn erv
 
 ![Schermafbeelding Sketchnotes](assets/20220303_122131%20(1).jpg)
 
-## 📚 Inhoudsopgave
-
-* [Kenmerken](#kenmerken)
-* [Tools](#tools)
-* [Licentie](#licentie)
-
-## ⚡ Kenmerken
-Dit project is gemaakt met pen & papier. Verder staat hieronder een korte lijst met gebruikte tools en middelen.
-
-**Tools**
-
-- ✍ Pen & Papier
 
 ## 🔓 Licentie
 
