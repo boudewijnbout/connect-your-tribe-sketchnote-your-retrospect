@@ -1,15 +1,12 @@
-# Persoonlijk visitekaartje met API
-![Schermafbeelding Homepagina](assets/images/screenshot-visitekaartje.png)
+# Sketchnotes Sprint 7 - Connect your tribe.
+![Schermafbeelding Sketchnotes](assets/images/screenshot-visitekaartje.png)
 
 Dit project omvat twee sketchnotes die ik heb gemaakt tijdens Sprint 7.
 
 ## 📚 Inhoudsopgave
 
-* [Beschrijving](#beschrijving)
 * [Kenmerken](#kenmerken)
-* [Installatie](#installatie)
-* [Gebruik](#gebruik)
-* [Bronnen](#bronnen)
+* [Tools](#tools)
 * [Licentie](#licentie)
 
 ## ⚡ Kenmerken
