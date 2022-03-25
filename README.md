@@ -10,9 +10,10 @@ Dit is de sketchnote die ik heb gemaakt om mijn progressie in Sprint 7 visueel t
 
 
 ### Sketchnote metafoor
-![Schermafbeelding Sketchnotes](assets/20220303_122131%20(1).jpg)
 
 Dit is de sketchnote die ik heb gemaakt om een metafoor te koppelen aan mijn ervaring(en) in Sprint 7. Hierbij stond ik figuurlijk voor paal, omdat mijn kennis in JavaScript toch minder was dan ik had gehoopt.
+
+![Schermafbeelding Sketchnotes](assets/20220303_122131%20(1).jpg)
 
 ## 📚 Inhoudsopgave
 
